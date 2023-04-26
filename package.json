@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
         "author": "Ammar Mohammed",
         "description": "starting with nodejs and javascript for backend development",
-        "keywords": [ "descriptive", "related", "words" ],
+        "keywords": [ "descriptive", "related", "words", "freecodecamp", "Ammar" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
