@@ -3,7 +3,7 @@
         "description": "simple project",
         "author": "Ammar",
         "keywords": ["freecodecamp"],
-        "licence": "GNU",
+        "license": "GNU",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
