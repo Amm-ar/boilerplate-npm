@@ -4,6 +4,7 @@
         "author": "Ammar",
         "keywords": ["freecodecamp"],
         "license": "GNU",
+        "version": "0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
