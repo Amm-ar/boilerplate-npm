@@ -1,9 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
-        "author": "Ammar Mohammed",
-        "description": "starting with nodejs and javascript for backend development",
-        "keywords": [ "descriptive", "related", "words", "freecodecamp", "Ammar" ],
-        "dependencies": {
+        "description": "simple project",
+        "author": "Ammar",
+        "keywords": ["freecodecamp"],
+	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
@@ -13,5 +13,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
+	}
 }
