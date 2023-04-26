@@ -3,7 +3,6 @@
         "author": "Ammar Mohammed",
         "description": "starting with nodejs and javascript for backend development",
         "keywords": [ "descriptive", "related", "words", "freecodecamp", "Ammar" ],
-	"license": "BSD",
         "dependencies": {
 		"express": "^4.14.0"
 	},
